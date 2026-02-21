@@ -77,8 +77,3 @@ To secure an entry-level Cybersecurity / SOC Analyst role where I can contribute
 
 - LinkedIn: https://www.linkedin.com/in/samuel-ohaezu-2681283a3/
 - GitHub: https://github.com/ohaezusamuel
-
----
-
-> “Security is a process, not a product.”
-
